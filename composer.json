@@ -1,0 +1,17 @@
+{
+    "name": "notcod/captcha",
+    "description": "PHP Captcha",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "notcod",
+        "email": "77313746+notcod@users.noreply.github.com"
+    }],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "files": [
+            "captcha.php"
+        ]
+    }
+}
